@@ -1,1 +1,1 @@
-"""Quirks for soil sensors (ZWJCY)."""
+"""Quirks for Tuya ZWJCY category (soil sensor)."""
